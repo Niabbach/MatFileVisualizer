@@ -2,7 +2,7 @@ import scipy.io
 import matplotlib.pyplot as plt
 
 # Chargement du fichier
-mat = scipy.io.loadmat("ACDC.mat")
+mat = scipy.io.loadmat("MatFileVisualizer/data/Box.mat")
 
 # Récupération des structures
 names = mat["name"]

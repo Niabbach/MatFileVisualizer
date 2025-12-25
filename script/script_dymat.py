@@ -5,7 +5,7 @@ import numpy as np
 # ------------------------------
 # Chargement du fichier Dymola
 # ------------------------------
-filename = "ACDC.mat" 
+filename = "MatFileVisualizer/data/Box.mat" 
 data = DyMatFile(filename)
 
 # ------------------------------
